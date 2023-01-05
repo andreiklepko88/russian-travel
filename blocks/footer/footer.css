@@ -5,6 +5,7 @@
     align-items: flex-end;
     flex-wrap: wrap;
     height: 110px;
+    padding: 0 48px;
 }
 
 @media screen and (max-width: 767px) {
