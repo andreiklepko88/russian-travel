@@ -1,0 +1,8 @@
+.cover {
+    color: #ffffff;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1184px;
+    max-height: 740px; 
+    box-sizing: border-box;
+}

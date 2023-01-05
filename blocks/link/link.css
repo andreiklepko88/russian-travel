@@ -1,0 +1,12 @@
+.link {
+    transition: 0.5s ease 0.5s;
+    color: #ffffff;
+}
+
+.link:hover {
+    opacity: 0.8;
+}
+
+.link:focus {
+    opacity: 0.8;
+}

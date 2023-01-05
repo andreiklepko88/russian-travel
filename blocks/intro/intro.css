@@ -1,0 +1,25 @@
+.intro {
+    color: #ffffff;
+    box-sizing: border-box;
+    padding: 92px 148px;
+    
+}
+
+@media screen and (max-width: 1050px) {
+    .intro {
+        padding: 92px 48px;
+}
+}
+
+
+@media screen and (max-width: 770px) {
+    .intro {
+        padding: 88px 24px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .intro {
+        padding: 64px 16px;
+}
+}

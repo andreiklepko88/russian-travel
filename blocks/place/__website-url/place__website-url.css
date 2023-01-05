@@ -1,0 +1,15 @@
+.place__website-url {
+    color: #aaaaaa;
+    margin: 0 0 12px 0;
+    padding: 0;
+    line-height: 1.7;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@media screen and (max-width: 770px) {
+    .lead__title {
+        line-height: 1;
+}
+}

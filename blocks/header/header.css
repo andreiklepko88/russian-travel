@@ -1,0 +1,30 @@
+.header {
+   margin: 0 auto;
+   padding: 0 48px;
+   box-sizing: border-box;
+   display: flex;
+   max-height: 108px;
+   justify-content: space-between;
+   color: #ffffff;
+}
+
+@media screen and (max-width: 1050px) {
+   .header{
+       padding: 0 48px;
+       max-height: 100px;
+}
+}
+
+@media screen and (max-width: 770px) {
+   .header {
+      padding: 0 24px;
+      max-height: 100px;
+   }
+}
+
+@media screen and (max-width: 425px) {
+   .header {
+      padding: 0 16px;
+      max-height: 90px;
+}
+}
