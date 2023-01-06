@@ -15,20 +15,14 @@
     }
     }
     
-    @media (max-width: 585px) {
-    .intro__title {
-    font-size: 38px;
-    }
-    }
-    
-    @media (max-width: 513px) {
+    @media (max-width: 560px) {
     .intro__title {
     font-size: 35px;
     line-height: 1.09;
     }
     }
     
-    @media (max-width: 475px) {
+    @media (max-width: 425px) {
     .intro__title {
     font-size: 32px;
     }
