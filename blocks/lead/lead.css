@@ -4,7 +4,7 @@
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
-    margin-top: 56px;
+    margin-top: 47px;
     color: #ffffff;
     box-sizing: border-box;
     padding: 0 148px;
@@ -13,12 +13,18 @@
 @media screen and (max-width: 1200px) {
     .lead {
         padding: 0 48px;
-        margin-top: 48px;
+        margin-top: 38px;
     }
 }
 
-@media screen and (max-width: 770px) {
+@media screen and (max-width: 900px) {
     .lead {
         padding: 0;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .lead {
+        margin-top: 41px;
     }
 }

@@ -17,6 +17,7 @@
     
     @media (max-width: 560px) {
     .intro__title {
+    max-width: 250px;
     font-size: 35px;
     line-height: 1.09;
     }

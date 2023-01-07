@@ -1,3 +1,11 @@
 .header__logo-link {
-    
+    margin: 0;
+    padding: 0;
+    height: 52px;
+}
+
+@media screen and (max-width: 425px) {
+    .header__logo-link {
+        height: 42px;
+}
 }

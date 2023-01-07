@@ -4,10 +4,13 @@
     margin-top: 18px;
     list-style-type: none;
     flex-direction: row;
+    justify-content: space-between;
+    width: 76px;
 }
 
 @media screen and (max-width: 425px) {
     .header__lang-links {
         margin-top: 14px;
+        width: 62px;
     }
 }
